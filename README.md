@@ -1,4 +1,4 @@
-# STM32_HAL_ATK901_Driver
+# STM32_HAL_ATK-IMU901_Driver
 一个易于使用和移植的正点原子ATK-IMU901角度传感器库，包含串口循环缓冲区数据包校验和数据解析。
 #### 1. 简介
 
